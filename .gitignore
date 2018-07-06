@@ -59,3 +59,8 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+.idea/misc.xml
+.idea/modules.xml
+SRC/__pycache__/
+WRK/
+proxy_load.iml
